@@ -211,4 +211,4 @@ Writing matmul.cu
 <img width="1788" height="448" alt="image" src="https://github.com/user-attachments/assets/5f2e46f0-9f7e-428b-9f1c-ad60c631d37a" />
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 3.7120us time and host took 0.000251 seconds time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 3.7120us time.
